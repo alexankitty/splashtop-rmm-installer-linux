@@ -11,4 +11,3 @@ git clone https://github.com/alexankitty/splashtop-rmm-installer-linux
 cd splashtop-rmm-installer-linux
 ./install.sh
 ```
-```
