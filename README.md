@@ -8,7 +8,7 @@ You should also run the latest version of WINE that your distro offers. These sc
 # Usage
 1. Clone this repo
 2. Run `./install.sh` in your terminal
-3. Try Splashtop RMM with your RMM of choice to verify it works.
+3. Try Splashtop RMM with your RMM of choice to verify it works.  
 Optionally you may also run ./install-splashtop-business.sh as well, should you need Splashtop Business.
 ```sh
 git clone https://github.com/alexankitty/splashtop-rmm-installer-linux
