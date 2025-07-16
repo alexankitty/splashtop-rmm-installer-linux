@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Splashtop RMM URL Opener
+Exec=env "WINEPREFIX=/home/alexandra/.local/share/splashtop" /home/alexandra/.local/share/splashtop/st-rmm-url-launcher.sh %u
+Type=Application
+StartupNotify=true
+Icon=B602_clientoobe.0
+StartupWMClass=clientoobe.exe
+MimeType=x-scheme-handler/st-rmm
+NoDisplay=true
+Path=/home/alexandra/.local/share/splashtop/drive_c/Program Files (x86)/Splashtop/Splashtop Remote/Client for RMM
